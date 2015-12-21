@@ -1,0 +1,52 @@
+# markdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["superscript","tables","with_toc_data","strikethrough"]
+highlighter: pygments
+
+exclude:
+- ".ruby-version"
+- ".jekyll-metadata"
+- ".gitignore"
+- ".travis.yml"
+- todo.txt
+- resources
+- Gemfile
+- Gemfile.lock
+- Makefile
+- vendor
+- README.md
+- CONTRIBUTING.md
+- LICENSE.md
+
+# Site metadata
+name: "Category Management Policy 16-1"
+description: "Category Management Policy 16-1: Improving the Acquisition and Management of Common Information Technology: Software Licensing"
+baseurl: https://ombegov.github.io/software-policy/
+# Uncomment the following line for localhost development at http://127.0.0.1:4000/software/
+# baseurl: /software
+
+# GitHub information
+org_name: whitehouse
+repo_name: software-policy
+branch: gh-pages
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: Home
+  url: /software-policy/
+- text: Introduction
+  url: /software-policy/introduction/
+- text: Agency Strategies
+  url: /software-policy/agencystrat/
+- text: Governmentwide Strategies
+  url: /software-policy/govwidestrat/
+- text: Appendix A
+  url: /software-policy/appendixa/
+- text: Appendix B
+  url: /software-policy/appendixb/
+
+# sass
+sass:
+  sass_dir: _sass
