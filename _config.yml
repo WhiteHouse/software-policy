@@ -22,9 +22,9 @@ exclude:
 # Site metadata
 name: "Category Management Policy 16-1"
 description: "Category Management Policy 16-1: Improving the Acquisition and Management of Common Information Technology: Software Licensing"
-baseurl: https://ombegov.github.io/software-policy/
+baseurl: https://whitehouse.github.io/software-policy/
 # Uncomment the following line for localhost development at http://127.0.0.1:4000/software/
-# baseurl: /software
+# baseurl: /software-policy
 
 # GitHub information
 org_name: whitehouse
@@ -35,17 +35,17 @@ branch: gh-pages
 # List links that should appear in the site sidebar here
 navigation:
 - text: Home
-  url: /software-policy/
+  url: /
 - text: Introduction
-  url: /software-policy/introduction/
+  url: /introduction/
 - text: Agency Strategies
-  url: /software-policy/agencystrat/
+  url: /agencystrat/
 - text: Governmentwide Strategies
-  url: /software-policy/govwidestrat/
+  url: /govwidestrat/
 - text: Appendix A
-  url: /software-policy/appendixa/
+  url: /appendixa/
 - text: Appendix B
-  url: /software-policy/appendixb/
+  url: /appendixb/
 
 # sass
 sass:
