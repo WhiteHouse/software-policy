@@ -22,9 +22,9 @@ exclude:
 # Site metadata
 name: "Category Management Policy 16-1"
 description: "Category Management Policy 16-1: Improving the Acquisition and Management of Common Information Technology: Software Licensing"
-baseurl: https://whitehouse.github.io/software-policy/
+baseurl: https://software.cio.gov
 # Uncomment the following line for localhost development at http://127.0.0.1:4000/software/
-# baseurl: /software-policy
+#baseurl: /software-policy
 
 # GitHub information
 org_name: whitehouse
