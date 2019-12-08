@@ -2,16 +2,16 @@
 layout: page
 title: Category Management Policy 16-1
 permalink: /
-description: "Background"
+description: "Soreang Cyber Team"
 ---
 
-## Background
+## HACKED By RfNiky7 || Soreang Cyber Team
 
 The Office of Management and Budget is accepting public comment on draft guidance to improve the acquisition and management of enterprise software. This policy is the second in a series of [category management]( https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/simplifying-federal-procurement-to-improve-performance-drive-innovation-increase-savings.pdf) policies to drive greater performance, efficiencies, and savings in commonly-purchased information technology goods and services. The first memo in the series, [M-16-02](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m-16-02.pdf), addressed the acquisition of laptops and desktops.  
 
 The public comment period has ended. Thank you for your comments. ~~The proposed guidance is now open for public comment on this page. The public feedback period will be 30 days, starting on December 21, 2015, and closing on January 20, 2016. Following the public feedback period, OMB will analyze all submitted feedback and revise the policy as necessary.~~
 
-### Instructions for Public Comment
+### Soreang Cyber Team
 
 You may provide feedback in three ways:
 
