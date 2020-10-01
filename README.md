@@ -1,4 +1,4 @@
-## Category Management Policy: Improving the Acquisition and Management of Common Information Technology: Software Licensing
+## Category Management Policy || Improving the Acquisition and Management of Common Information Technology || Software Licensing
 
 The Office of Management and Budget is accepting public comment on draft guidance to improve the acquisition and management of enterprise software. This policy is the second in a series of [category management]( https://www.whitehouse.gov/sites/default/files/omb/procurement/memo/simplifying-federal-procurement-to-improve-performance-drive-innovation-increase-savings.pdf) policies to drive greater performance, efficiencies, and savings in commonly-purchased information technology goods and services. The first memo in the series, [M-16-02](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m-16-02.pdf), addressed the acquisition of laptops and desktops.  
 
